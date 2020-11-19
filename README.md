@@ -1,4 +1,4 @@
-# Consumindo uma api simples de filmes
+# Consumindo uma api simples de Projetos pessoais
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
